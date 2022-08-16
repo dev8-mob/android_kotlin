@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_gravity="start|fill_horizontal|center_vertical"
+    android:gravity="center_vertical"
+    android:clipChildren="true"
+    tools:context=".dashboard.homepage.AppsCell">
+
+    <LinearLayout
+        android:id="@+id/bgAppFrag"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start|fill_horizontal|center_vertical"
+        android:background="@drawable/bg_apps1"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:clipChildren="true"
+        android:layout_marginEnd="10dp">
+
+        <ImageView
+            android:id="@+id/imgAppIconFrag"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/app_name"/>
+
+        <TextView
+            android:id="@+id/txtAppNameFrag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_weight="1"
+            android:gravity="start"
+            android:text="@string/apps_dummy1"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtAppSizeFrag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="start"
+            android:text="@string/apps_size1"
+            android:textAlignment="viewStart"
+            android:textColor="@color/custom_gray" />
+
+        <Button
+            android:id="@+id/btnInstallFrag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/background_ovaltransparent"
+            android:text="@string/install"
+            android:textAllCaps="false"
+            android:textColor="@color/custom_yellow"
+            app:backgroundTint="@null" />
+
+    </LinearLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

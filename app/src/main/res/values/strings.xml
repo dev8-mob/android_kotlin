@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">FPLE</string>
+    <!-- Strings used for splash pages -->
+    <string name="img_splash_1">image splash 1</string>
+    <string name="img_splash_2">image splash 2</string>
+    <string name="img_splash_3">image splash 3</string>
+    <string name="img_splash_4">image splash 4</string>
+    <string name="splash_test_4_you">Test 4 You</string>
+    <string name="splash_welcome_test"><![CDATA[Hello & welcome to the test, good luck!]]></string>
+    <string name="splash_hassle_free">Hassle-free</string>
+    <string name="splash_application">Application</string>
+    <string name="splash_quick_and_easy"><![CDATA[Quick & easy application, lorem ipsum]]></string>
+    <string name="splash_fantastic">Fantastic</string>
+    <string name="splash_review">Review</string>
+    <string name="splash_five_stars"><![CDATA[5-stars customer rating, experience service like no other]]></string>
+    <string name="splash_the_fple">The Fple</string>
+    <string name="splash_magic">Magic</string>
+    <string name="splash_we_transform"><![CDATA[We transforms concepts into platforms which vividly display your stories!]]></string>
+    <string name="get_started">Get Started!</string>
+    <!-- Strings used for login page -->
+    <string name="title_activity_login">Login</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="mobile_number_placeholder">Insert Mobile Number</string>
+    <string name="nric_number">NRIC Number</string>
+    <string name="nric_number_placeholder">Your NRIC Number</string>
+    <string name="password">Password</string>
+    <string name="password_placeholder">Your Password</string>
+    <string name="login">Log In</string>
+    <string name="no_account">Don\'t have an account yet?></string>
+    <string name="register_now">REGISTER NOW</string>
+    <!-- Strings used for home page -->
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="editor_choice">Editor\'s Choice</string>
+    <string name="text_home">Home</string>
+    <string name="text_website">Website</string>
+    <string name="text_discover">Discover</string>
+    <string name="text_profile">Profile</string>
+    <string name="apps_dummy1">Dummy Apps 1</string>
+    <string name="apps_dummy2">Dummy Apps 2</string>
+    <string name="apps_dummy3">Dummy Apps 3</string>
+    <string name="apps_dummy4">Dummy Apps 4</string>
+    <string name="apps_size1">21 MB</string>
+    <string name="apps_size2">19.5 MB</string>
+    <string name="apps_size3">25 MB</string>
+    <string name="apps_size4">31.2 MB</string>
+    <string name="install">Install</string>
+    <string name="page_detail">Details Page</string>
+    <!-- Strings used for apps detail page -->
+    <string name="details_title">Top Trending Shopping App</string>
+    <string name="details_install">Install Now</string>
+    <string name="details_apps">If you work for an ad agency and getting paid for it aren\'t you the one who is being influenced by advertising?. North America should be called Russia since people are always moving so fast. Gralitica. If you work for an ad agency and getting paid for it aren\'t you the one who is being influenced by advertising?. I started a sensory deprivation chamber business - it involves really dark curtains, ear plugs, and a sleeping mask. You should "listen to my mixtape" (check out the rest of my portfolio).</string>
+    <!-- Strings used for discover page -->
+    <string name="text_thank">Thank</string>
+    <string name="text_you">You</string>
+    <string name="ty_spending">Thank you for spending your time on the test</string>
+    <string name="text_goto">Go to Profile to</string>
+    <string name="text_logout">logout</string>
+</resources>
